@@ -34,3 +34,8 @@ func TestSmooth(t *testing.T) {
 And then if you drew an image plotting `input` in red and `output` in black you'd see something this:
 
 ![](docs/images/smooth.png)
+
+## See also
+
+* http://graphics.cs.ucdavis.edu/education/CAGDNotes/Chaikins-Algorithm/Chaikins-Algorithm.html
+* https://observablehq.com/@pamacha/chaikins-algorithm
