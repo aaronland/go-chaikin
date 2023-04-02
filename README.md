@@ -31,7 +31,7 @@ func TestSmooth(t *testing.T) {
 }
 ```
 
-And then if you drew an image plotting `input` in red and `output` in black you'd see something this:
+And then if you drew an image plotting `input` in red and `output` in black you'd see this:
 
 ![](docs/images/smooth.png)
 
